@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Prageeth!+👋;Software+Engineer+💻;AI+Tools+Developer+🤖;Tech+Innovator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Prageeth+Priyamantha!+👋;Software+Engineer+💻;AI+Tools+Developer+🤖;Tech+Innovator+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 ---
 
 ### 🙋‍♂️ About Me:
-I am a 25-year-old **Software Engineer** from Sri Lanka, holding a **BSc (Hons) in Software Engineering** from SLTC. 
+I am a 25-year-old **Software Engineer** from Sri Lanka, holding a **BSc (Hons) in Software Engineering** from SLTC Campus. 
 
 I am deeply passionate about artificial intelligence and modern software development. My primary focus right now is **building innovative AI tools** that solve real-world problems. With a strong technical foundation across both web and mobile platforms, I enjoy bringing complex ideas to life through clean, efficient, and scalable code.
 
