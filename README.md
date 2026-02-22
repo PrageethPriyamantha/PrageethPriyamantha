@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Master+Prageeth!+👋;Aspiring+Engineer+🚀;Tech+Enthusiast+💻;Web+Developer+🌐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Prageeth!+👋;Software+Engineer+💻;AI+Tools+Developer+🤖;Tech+Innovator+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,28 +24,49 @@
 ---
 
 ### 🙋‍♂️ About Me:
-I am a passionate 18-year-old student from Sri Lanka, currently preparing for my Advanced Level examinations in the Science stream (Physics, Chemistry, and Combined Mathematics). My ultimate academic goal is to pursue an Engineering degree at the University of Moratuwa.
+I am a 25-year-old **Software Engineer** from Sri Lanka, holding a **BSc (Hons) in Software Engineering** from SLTC. 
 
-Alongside my core studies, I have a strong passion for technology, programming, and entrepreneurship. I am actively learning and exploring fields like Data Analytics, FinTech, and developing algorithmic trading bots. I'm also diving into modern web development to build functional and beautiful applications, including an upcoming e-commerce platform for an apparel brand: "AMARATHUNGA FASHION STORE".
+I am deeply passionate about artificial intelligence and modern software development. My primary focus right now is **building innovative AI tools** that solve real-world problems. With a strong technical foundation across both web and mobile platforms, I enjoy bringing complex ideas to life through clean, efficient, and scalable code.
 
 ---
 
 ### 🛠️ Languages and Tools:
+
+**Core Languages:**
 <p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+**Web & Mobile Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+**AI, Databases & DevOps:**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
 ### 🌱 Currently Focusing On:
-- Mastering **Python** for real-world problem solving and automation.
-- Learning Frontend Web Development (UI/UX design, CSS styling) to build intuitive web applications.
-- Deepening my knowledge in Physics and Cosmology.
-- Exploring innovative business ideas in organic farming, fashion design, and the food industry.
+- Researching, designing, and developing advanced **AI Tools** and machine learning models.
+- Building scalable cross-platform applications using **Flutter** and **Dart**.
+- Enhancing full-stack architectures with modern web technologies.
 
 ---
 
@@ -58,9 +79,4 @@ Alongside my core studies, I have a strong passion for technology, programming, 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrageethPriyamantha&theme=tokyonight&hide_border=true" alt="Prageeth's GitHub Streak" />
-</div>
-
----
-<div align="center">
-  <i>"Consistently learning and building for the future."</i>
 </div>
